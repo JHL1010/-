@@ -1,2 +1,2 @@
-# -
-记录平时需要的一些小的知识技巧
+# 1. pycharm关闭拼写检查   
+打开pycharm，点击[File]->[Settings]，在出现如的界面中选中[Inspections]，取消[Spelling]即可
